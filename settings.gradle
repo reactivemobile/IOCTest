@@ -1,0 +1,6 @@
+rootProject.name = 'IOCTest'
+include 'annotations'
+include 'processor'
+include 'annotations'
+include 'demo'
+
